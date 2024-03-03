@@ -1,0 +1,10 @@
+int a@gh 
+a + b 
+for 
+_11 
+if 
+else* 
+123870 
+1d254 > g34 
+56 || 89 
+//*comment  
